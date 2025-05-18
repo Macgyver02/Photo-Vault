@@ -62,3 +62,4 @@ To deploy the application:
 ## License
 
 MIT# Photo-Vault
+# Photo-Vault
