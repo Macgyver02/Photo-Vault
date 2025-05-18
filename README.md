@@ -1,6 +1,8 @@
 # Photo Vault
 
+
 A beautiful, secure photo storage application built with React, TypeScript, and Supabase.
+
 
 ## Features
 
