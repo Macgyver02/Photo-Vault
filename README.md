@@ -2,6 +2,8 @@
 
 A beautiful, secure photo storage application built with React, TypeScript, and Supabase.
 
+
+
 ## Features
 
 - User authentication (login and registration)
