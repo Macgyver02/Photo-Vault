@@ -4,6 +4,7 @@ A beautiful, secure photo storage application built with React, TypeScript, and 
 
 
 
+
 ## Features
 
 - User authentication (login and registration)
